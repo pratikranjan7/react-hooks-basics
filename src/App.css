@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color:rgb(242, 222, 123);
+}
+
+.onebox, .twobox, .threebox, .fourbox, .fivebox {
+  width: 500px;
+  margin-left: 35%;
+  background-color: aquamarine;
+  padding: 1%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+button {
+  margin: 3px;
+}
